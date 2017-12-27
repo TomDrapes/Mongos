@@ -1,0 +1,159 @@
+mySpriteSheet5.png
+size: 128, 705
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ammo2
+  rotate: false
+  xy: 0, 0
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+mong1
+  rotate: false
+  xy: 64, 32
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+mong2
+  rotate: false
+  xy: 96, 32
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+mong3
+  rotate: false
+  xy: 32, 64
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+mong4
+  rotate: false
+  xy: 0, 64
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+mong5
+  rotate: false
+  xy: 0, 32
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+mong6
+  rotate: false
+  xy: 17, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+mysling
+  rotate: false
+  xy: 64, 64
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+pausebtn
+  rotate: false
+  xy: 0, 577
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+playbtn
+  rotate: false
+  xy: 0, 321
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+pop
+  rotate: false
+  xy: 49, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pop2
+  rotate: false
+  xy: 32, 32
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pop3
+  rotate: false
+  xy: 81, 0
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+princess
+  rotate: false
+  xy: 0, 161
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+princess2
+  rotate: false
+  xy: 0, 129
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+princess3
+  rotate: false
+  xy: 80, 129
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+princess4
+  rotate: false
+  xy: 0, 97
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+princess5
+  rotate: false
+  xy: 40, 97
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+princess6
+  rotate: false
+  xy: 40, 129
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+princess7
+  rotate: false
+  xy: 80, 97
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+soundoff
+  rotate: false
+  xy: 0, 193
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+soundon
+  rotate: false
+  xy: 0, 449
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
