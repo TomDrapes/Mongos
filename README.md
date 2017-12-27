@@ -8,6 +8,8 @@ concepts behind object oriented programming with Java, as well as the process of
 
 Mongos was built using the libGDX framework and box2d physics engine.
 
+Download [here](https://play.google.com/store/apps/details?id=com.doctorapes.capitolhotel) from the Google Play Store.
+
 ## How to run
 
 * First download or clone this repository
