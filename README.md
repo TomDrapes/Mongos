@@ -31,3 +31,7 @@ application.
 
 ### Special contributions
 Special thanks to Ben Watts for his work in creating the splash screen and icon for this application.
+
+Lastly many thanks go to Brent Aureli who provided an amazingly thorough tutorial on youtube showing how to make the classic
+platformer [Super Mario Bro's](https://www.youtube.com/watch?v=a8MPxzkwBwo&list=PLZm85UZQLd2SXQzsF-a0-pPF6IWDDdrXt), which is
+what I used as a template and starting point for this project. So go check out his channel!
